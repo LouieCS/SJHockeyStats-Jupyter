@@ -1,6 +1,5 @@
 # SJHockeyStats-Jupyter
-Completed on May 2023 for my capstone project. Developed using Jupyter Notebook.
-----
+
 Developed using Jupyter Notebooks with Python. The objective of this project was to develop an application that analyzes player statistics and salaries to make predictions on future player performance, facilitating informed player asset management decision-making. The application incorporates descriptive and non-descriptive methods, including visualizations and the random forest tree algorithm.
 
 Visualizations, such as heatmaps, display the correlation matrix between player performance metrics (goals, assists, points, shots on goal) and salary, providing an overview of their relationships. This helps identify significant predictors for subsequent analysis.
